@@ -3,6 +3,12 @@
 import math
 
 def recipe_batches(recipe, ingredients):
+  # make sure you have all ingredients by name that recipe calls for. 
+  #if recipe is in ingredients,
+  #   --  ingredients = ingredients - recipe
+  #        maxBatches +=1
+  #      return maxbatches
+  # else maxbatches = 0
   pass 
 
 
